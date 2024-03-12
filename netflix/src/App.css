@@ -1,0 +1,20 @@
+.row{
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+.movie-row{
+  display: flex;
+  margin-top: 20px;
+}
+.movie{
+  width: 100px;
+  height: 200px;
+  margin-right: 20px;
+  transition: 460ms;
+}
+.movie:hover{
+  transform: scale(1.05);
+}
+.movie-poster{
+  height: 350px;
+}
